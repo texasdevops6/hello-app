@@ -1,0 +1,42 @@
+
+--App urls 
+http://18.221.34.179:8080/telecomqa/
+http://3.133.82.159:8080/telecomprod/
+
+
+
+--sonar
+http://13.77.180.92:9000/dashboard?id=WEBPOC%3AJavaWebApp
+http://13.77.180.92:9000/projects
+
+
+--blazemeter
+
+https://a.blazemeter.com/app/#/accounts/477855/workspaces/478619/projects/576272/masters/27523693/summary
+
+--datadog
+https://app.datadoghq.com/account/preferences
+
+--pagerduty
+https://telecomggb.pagerduty.com/incidents
+texas@123321
+
+
+--ansible
+http://13.77.180.92:4000/webapp/
+
+--jenkins pipeline
+
+http://13.77.180.92:8080/view/telecom-pipeline/
+
+
+-- ansible project 
+C:\hari\casestudy\hello-app\webapp\src\main\webapp
+
+--telecom app 
+C:\hari\texas\WebApp\src\main\webapp
+
+--jfrog
+https://texasdevops6.jfrog.io/ui/packages
+
+ZWS7woQ0LW8x79mTf9WYJg
